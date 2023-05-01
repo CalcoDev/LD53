@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81e3f4e1df24ec1991110e47c29a10a, type: 3}
+  m_Name: FistAbility
+  m_EditorClassIdentifier: 
+  Name: Fist
+  Icon: {fileID: 2800000, guid: fec110f1cc7b570428d1d2e504a3ae05, type: 3}
+  UseMouse: 0
+  Cooldown: 0.1
+  BulletSpeed: 10
+  BulletDamage: 5
+  BulletLifespan: 0.25
+  BulletPrefab: {fileID: 4540934689739571427, guid: 3b23922ec25d9ab469a54dd73625fec7, type: 3}
+  MilkCost: 0

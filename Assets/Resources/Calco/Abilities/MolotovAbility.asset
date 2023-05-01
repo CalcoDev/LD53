@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81e3f4e1df24ec1991110e47c29a10a, type: 3}
+  m_Name: MolotovAbility
+  m_EditorClassIdentifier: 
+  Name: Milkotov
+  Icon: {fileID: 2800000, guid: 9232fd11be26c9a43bc680dd8eb09ad2, type: 3}
+  UseMouse: 1
+  Cooldown: 0.5
+  BulletSpeed: 30
+  BulletDamage: 5
+  BulletLifespan: 100
+  BulletPrefab: {fileID: 5733942938616020721, guid: d42a4977cbf56ce48ae8fb622b0857a9, type: 3}
+  MilkCost: 10

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81e3f4e1df24ec1991110e47c29a10a, type: 3}
+  m_Name: RevolverAbility
+  m_EditorClassIdentifier: 
+  Name: Revolver
+  Icon: {fileID: 2800000, guid: 09af9eb2b366d314da55bfe64f451c47, type: 3}
+  UseMouse: 1
+  Cooldown: 0.1
+  BulletSpeed: 18
+  BulletDamage: 5
+  BulletLifespan: 100
+  BulletPrefab: {fileID: 3562934802453045134, guid: c5c4a563ae7be2b4da210aabe11b124e, type: 3}
+  MilkCost: 5
